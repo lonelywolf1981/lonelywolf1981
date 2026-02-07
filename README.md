@@ -1,81 +1,90 @@
 # 👋 Андрей | Andrey (lonelywolf1981)
 
 💻 Хобби-разработчик / системный администратор  
-🧠 Автоматизация, инфраструктура, практичные инструменты  
+🧠 Автоматизация, инфраструктура, внутренние инструменты  
 🏠 Working from home
 
 ---
 
-## 🇷🇺 О себе
+## 🇷🇺 О профиле
 
-Я веду GitHub как **рабочий блокнот и площадку для pet-проектов**.  
-Основной интерес — автоматизация рутинных задач, боты, интеграции и небольшие сервисы, которые реально используются на практике.
+Этот GitHub — **практическая площадка для pet-проектов**, которые я реально использую и дорабатываю.  
+Основной интерес — автоматизация, внутренние сервисы, интеграции и инструменты для администрирования.
 
-Активно поддерживаю и дорабатываю **несколько ключевых репозиториев**, остальные — эксперименты и архив практики.
-
----
-
-## EN About me
-
-This GitHub profile is my **technical playground and notebook**.  
-I focus on small, practical tools: automation, bots, integrations, and infrastructure-related utilities.
-
-Only a few repositories are actively maintained — the rest are experiments or learning artifacts.
+На данный момент **активно развиваются три проекта** — именно на них стоит ориентироваться.
 
 ---
 
-## 🔥 Актуальные и активные проекты / Active projects
+## EN About this profile
 
-### 🟢 reset_pass_bot
-**Python · Telegram Bot · Active Directory**
+This GitHub is a **hands-on playground for actively used pet projects**.  
+My focus is on automation, internal tools, integrations, and infrastructure-related services.
 
-Telegram-бот для автоматизированного сброса паролей пользователей в AD.  
-Используется как практический инструмент администрирования.
+Currently, **three repositories are actively maintained** — they represent my main interests and ongoing work.
 
-**Фокус:**
+---
+
+## 🔥 Активные проекты / Active projects
+
+### 🟢 ad_portal
+**Python · FastAPI · Active Directory · Infrastructure**
+
+Веб-портал для работы с Active Directory и сетевой инфраструктурой.  
+Проект развивается как внутренний сервис: настройки, валидация, фоновые задачи, UI.
+
+**Основные направления:**
+- Python / FastAPI
+- Active Directory (LDAP / LDAPS)
+- Асинхронная логика
+- Валидация конфигураций
+- Infrastructure tooling
+- UI для администрирования
+
+🔗 https://github.com/lonelywolf1981/ad_portal
+
+---
+
+### 🟢 lab_viewer
+**Python · Data processing · Visualization**
+
+Инструмент для анализа и визуализации лабораторных данных.  
+Фокус на обработке, отображении и удобстве работы с результатами измерений.
+
+**Основные направления:**
 - Python
-- Telegram Bot API
-- AD / LDAP
-- Автоматизация
-
----
-
-### 🟢 Email_Forwarding_bot
-**Python · Automation · Messaging**
-
-Бот для пересылки и обработки email-уведомлений.  
-Эксперименты с интеграцией почты и мессенджеров.
-
-**Фокус:**
-- Python
-- Email handling
-- Integrations
-- Automation scripts
-
----
-
-### 🟢 onlinemektep_parsing
-**Python · Parsing / Scraping**
-
-Парсер данных с веб-ресурсов.  
-Проект для отработки логики сбора, обработки и структурирования данных.
-
-**Фокус:**
-- Parsing / scraping
 - Data processing
-- Python utilities
+- Visualization
+- Работа с файлами и форматами данных
+- Практичный UI
+
+🔗 https://github.com/lonelywolf1981/lab_viewer
+
+---
+
+### 🟢 wa-bot
+**Python · WhatsApp · Automation**
+
+Бот для автоматизации задач в WhatsApp.  
+Эксперименты с интеграциями, событиями и управлением логикой общения.
+
+**Основные направления:**
+- Python
+- Messaging / bots
+- Automation
+- Integrations
+
+🔗 https://github.com/lonelywolf1981/wa-bot
 
 ---
 
 ## 🗂️ Остальные репозитории
 
-Остальные проекты в профиле — это:
-- учебные задания,
-- старые эксперименты,
-- тестовые приложения,
-- архив практики.
+Остальные проекты в профиле:
+- старые pet-проекты,
+- учебные эксперименты,
+- тестовые идеи.
 
-Они сохранены как история развития и идей.
+Они сохранены как архив и история, но **не являются активными**.
 
 ---
 
@@ -86,11 +95,13 @@ Telegram-бот для автоматизированного сброса па�
 - Java — базово
 - PHP — эпизодически
 
-### Инструменты и направления
-- Telegram Bots
+### Направления и инструменты
 - Automation / scripting
-- REST / API integrations
-- Parsing / scraping
+- Infrastructure tooling
+- Bots (Telegram / WhatsApp)
+- REST / API
+- Active Directory / LDAP
+- Data processing & visualization
 - Linux / Windows administration
 - Docker (использование)
 - Git / GitHub
@@ -100,8 +111,7 @@ Telegram-бот для автоматизированного сброса па�
 ## 📫 Контакты
 
 - GitHub: https://github.com/lonelywolf1981
-- Email: andrey.lw@gmail.com
 
 ---
 
-⭐ Репозитории обновляются по мере появления интересных задач и идей.
+⭐ Проекты развиваются по мере появления реальных задач и идей.
