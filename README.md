@@ -15,7 +15,7 @@
 
 ---
 
-## 🇬🇧 About me
+## EN About me
 
 This GitHub profile is my **technical playground and notebook**.  
 I focus on small, practical tools: automation, bots, integrations, and infrastructure-related utilities.
